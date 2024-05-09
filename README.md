@@ -7,3 +7,6 @@ Version: 1
 Released: 5/9/2024 10:13PM PST 
 
 Might have crashes or errors if you didn't put an anchor to PopupMenu 😉!
+
+AIX:
+<a href="https://github.com/bextdev797/Simple-Popup-Menu/raw/main/out/com.bextdev.simplepopupmenu.aix">SimplePopupMenu.aix</a>
