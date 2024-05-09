@@ -1,6 +1,6 @@
 ## PopupMenu
 
-Say Goodbye to Uili & DevYb's PopupMenu and Now Use Mine. 🎉 Hello to Simple Popup Menu AI2 Extension by Brandon Ang aka Bextdev.
+Say Goodbye to Ullis & Ayoub's PopupMenu Extension and Now Use Mine. 🎉 Hello to Simple Popup Menu AI2 Extension by Brandon Ang aka Bextdev.
 
 Version: 1
 
